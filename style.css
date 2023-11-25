@@ -1,0 +1,40 @@
+body {
+  background-color: green;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+th {
+  margin: 10px;
+}
+
+table,
+th,
+td {
+  border: solid black 1px;
+  border-collapse: collapse;
+}
+
+table {
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  background-color: lightgreen;
+}
+
+img {
+  margin: 10px;
+  padding: 10px;
+  border: darkblue solid 3px;
+  width: 200px;
+  height: 200px;
+}
+
+.caption,
+h1 {
+  color: white;
+}
